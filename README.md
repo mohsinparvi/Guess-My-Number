@@ -8,6 +8,9 @@ Welcome to Guess My Number, a fun and addictive web game that challenges you to 
 - You have 10 chances to guess the number correctly.
 - If you cannot guess the number within 10 chances, the game will end.
 
+  ![screencapture-file-D-Desktop-JavaScript-Code-05-Guess-My-Number-final-index-html-2023-06-17-01_28_43](https://github.com/aboutmohsin/Guess-My-Number/assets/86055307/9de52055-72d7-4ae1-9d5a-e3c360937164)
+
+
 ## Features
 - Random Number Generator: The game uses a random number generator to ensure that each game is unique.
 - User Input Validation: The game validates user input to ensure that only numbers between 1 and 100 are accepted.
